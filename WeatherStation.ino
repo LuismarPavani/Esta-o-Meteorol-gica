@@ -354,7 +354,7 @@ void setup() {
 
   // OTA: permite enviar novo firmware pelo WiFi (Arduino IDE > Porta de rede)
   ArduinoOTA.setHostname(hostname.c_str());
-  ArduinoOTA.setPassword("2258");       // senha pedida pela IDE no envio por rede
+  ArduinoOTA.setPassword("sua_senha");       // senha pedida pela IDE no envio por rede
   ArduinoOTA.begin();
 
   currentWeatherClient.setMetric(IS_METRIC);
