@@ -105,8 +105,8 @@ As telas deslizam automaticamente. A barra inferior mostra a hora (esquerda) e a
 Tela 6, na ordem das linhas:
 
 ```
-[▮▮▮▯] 85%  3.92V        1. bateria (ícone, percentual e tensão)
-▂▄▆█   -62dBm  76%       2. sinal do WiFi (ícone de barras, dBm e %)
+[▮▮▮▯] 85%  3.92V     1. bateria (ícone, percentual e tensão)
+▂▄▆█   -62dBm  76%      2. sinal do WiFi (ícone de barras, dBm e %)
 SSID: MinhaRede          3. nome da rede
 IP: 192.168.0.50         4. IP (use no navegador)
 ```
