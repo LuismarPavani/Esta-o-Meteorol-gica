@@ -505,7 +505,7 @@ Este projeto é distribuído sob a **licença MIT**. Mantenha o aviso de copyrig
 MIT License
 
 Copyright (c) 2018 Daniel Eichhorn - ThingPulse (código original)
-Copyright (c) 2026 SEU NOME (modificações)
+Copyright (c) 2026 LuismarPavani
 
 É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia deste
 software e dos arquivos de documentação associados, para lidar com o Software sem
