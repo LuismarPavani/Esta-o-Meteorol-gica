@@ -1,3 +1,15 @@
+/*
+MIT License
+
+Copyright (c) 2018 Daniel Eichhorn - ThingPulse (código original)
+Copyright (c) 2026 LuismarPavani
+
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia deste
+software e dos arquivos de documentação associados, para lidar com o Software sem
+restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar,
+publicar, distribuir, sublicenciar e/ou vender cópias do Software, sujeito às condições
+do texto completo da licença MIT original (https://opensource.org/licenses/MIT).
+*/
 
 #include <Arduino.h>
 
